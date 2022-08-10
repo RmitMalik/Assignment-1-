@@ -256,6 +256,15 @@ footer p:nth-child(2){
 }
 .links{
 	display: flex;
+	width: 60px
+}
+.links_bottom{
+	display: flex;
+	width: 60px
+}
+.links_bottom{
+	display: flex;
+	border-radius: 50%
 }
 .links a{
 	width: 45px;
